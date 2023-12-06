@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "HR",
+  "applicationTitle": "HR",
+  "items": [
+    {
+      "link": null,
+      "menuName": "h-r",
+      "caption": "HR",
+      "title": "HR",
+      "children": [
+        {
+          "link": "i-i-s-h-r-отделы-l",
+          "menuName": null,
+          "caption": "Отделы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-контроль-т-з-l",
+          "menuName": null,
+          "caption": "Контроль_ ТЗ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-анкеты-l",
+          "menuName": null,
+          "caption": "Анкеты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-физ-лица-l",
+          "menuName": null,
+          "caption": "Физ_лица",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-r-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

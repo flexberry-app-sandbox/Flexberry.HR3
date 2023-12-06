@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-r-контроль-т-з-e",
+  "editForm": "i-i-s-h-r-контроль-т-з-e",
+  "external": false,
+  "caption": "Контроль_ ТЗ",
+  "name": "IISHRКонтроль_ТЗL",
+  "className": "Контроль_ТЗL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-контроль-т-з",
+      "modelProjection": "Контроль_ТЗL"
+    }
+  ]
+}

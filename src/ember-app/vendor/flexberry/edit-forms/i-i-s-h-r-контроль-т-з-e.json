@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "сотрудники",
+      "displayAttributeName": "фИО",
+      "required": true,
+      "relationName": "Проверяемые.Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": "i-i-s-h-r-проверяемые"
+    }
+  ],
+  "external": false,
+  "caption": "Контроль_ ТЗ",
+  "name": "IISHRКонтроль_ТЗE",
+  "className": "Контроль_ТЗE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-контроль-т-з",
+      "modelProjection": "Контроль_ТЗE"
+    }
+  ]
+}

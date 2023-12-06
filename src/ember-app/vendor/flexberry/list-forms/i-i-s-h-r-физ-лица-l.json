@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-r-физ-лица-e",
+  "editForm": "i-i-s-h-r-физ-лица-e",
+  "external": false,
+  "caption": "Физ_лица",
+  "name": "IISHRФиз_лицаL",
+  "className": "Физ_лицаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-физ-лица",
+      "modelProjection": "Физ_лицаL"
+    }
+  ]
+}

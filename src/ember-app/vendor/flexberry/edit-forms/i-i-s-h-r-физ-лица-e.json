@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Физ_лица",
+  "name": "IISHRФиз_лицаE",
+  "className": "Физ_лицаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-r-физ-лица",
+      "modelProjection": "Физ_лицаE"
+    }
+  ]
+}
