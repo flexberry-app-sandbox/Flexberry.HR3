@@ -36,17 +36,17 @@
     },
     "Storage": {
       "Mssql": {
-        "DiffSql": true,
-        "FullSql": true,
-        "Security": true,
-        "AdminUser": true,
-        "ConnectionString": null
-      },
-      "PostgreSql": {
         "DiffSql": false,
         "FullSql": false,
         "Security": false,
         "AdminUser": false,
+        "ConnectionString": null
+      },
+      "PostgreSql": {
+        "DiffSql": true,
+        "FullSql": true,
+        "Security": true,
+        "AdminUser": true,
         "ConnectionString": null
       },
       "ClickHouse": {
