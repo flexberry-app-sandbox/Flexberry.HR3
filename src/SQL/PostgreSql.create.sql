@@ -14,10 +14,10 @@ CREATE TABLE Сотрудники (
  primaryKey UUID NOT NULL,
  ID INT NOT NULL,
  Дата_приема TIMESTAMP(3) NOT NULL,
- ФИО VARCHAR(255) NOT NULL,
  Контакты VARCHAR(255) NOT NULL,
  Образование VARCHAR(255) NOT NULL,
  Опыт_работы VARCHAR(255) NOT NULL,
+ ФИО VARCHAR(255) NOT NULL,
  Должности UUID NOT NULL,
  Отделы UUID NOT NULL,
  PRIMARY KEY (primaryKey));

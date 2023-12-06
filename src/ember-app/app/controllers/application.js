@@ -34,31 +34,31 @@ export default Controller.extend({
             link: 'i-i-s-h-r-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-сотрудники-l.title'),
-            icon: 'building',
+            icon: 'tags',
             children: null
           }, {
             link: 'i-i-s-h-r-контроль-т-з-l',
             caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-контроль-т-з-l.caption'),
             title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-контроль-т-з-l.title'),
-            icon: 'address card',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-h-r-анкеты-l',
             caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-анкеты-l.caption'),
             title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-анкеты-l.title'),
-            icon: 'paperclip',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-h-r-физ-лица-l',
             caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-физ-лица-l.caption'),
             title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-физ-лица-l.title'),
-            icon: 'chart bar',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-h-r-должности-l',
             caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-должности-l.title'),
-            icon: 'folder open',
+            icon: 'file',
             children: null
           }]
         }
