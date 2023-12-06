@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отделы",
+  "name": "IIShrОтделыE",
+  "className": "ОтделыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hr-отделы",
+      "modelProjection": "ОтделыE"
+    }
+  ]
+}

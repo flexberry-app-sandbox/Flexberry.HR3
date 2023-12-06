@@ -21,17 +21,17 @@ RUN \
 
 FROM mono:latest as backend
 
-COPY /src/HR /src/HR
+COPY /src/hr /src/hr
 
 RUN \
- cd /src/HR ;\
- nuget restore HR.sln; \
- msbuild /p:Configuration=Release HR.sln
+ cd /src/hr ;\
+ nuget restore hr.sln; \
+ msbuild /p:Configuration=Release hr.sln
 
 FROM flexberry/mono-xsp:latest
 
 MAINTAINER mail@flexberry.net
 
-COPY --from=backend /src/HR/ODataBackend /app
+COPY --from=backend /src/hr/ODataBackend /app
 COPY --from=ember_app /src/ember-app/dist /app
 WORKDIR /app

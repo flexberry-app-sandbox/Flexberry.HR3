@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-hr-отделы-e",
+  "editForm": "i-i-s-hr-отделы-e",
+  "external": false,
+  "caption": "Отделы",
+  "name": "IIShrОтделыL",
+  "className": "ОтделыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hr-отделы",
+      "modelProjection": "ОтделыL"
+    }
+  ]
+}

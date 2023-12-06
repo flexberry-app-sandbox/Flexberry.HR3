@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-hr-сотрудники-e",
+  "editForm": "i-i-s-hr-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IIShrСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hr-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

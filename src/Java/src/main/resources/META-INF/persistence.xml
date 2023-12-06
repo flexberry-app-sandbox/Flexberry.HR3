@@ -3,17 +3,17 @@
 	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
     <persistence-unit name="Olingo4PG">
-        <class>HR.model.Otdely</class>
-        <class>HR.model.Sotrudniki</class>
-        <class>HR.model.Kontrol_TZ</class>
-        <class>HR.model.Ankety</class>
-        <class>HR.model.Fiz_lica</class>
-        <class>HR.model.Dolzhnosti</class>
-        <class>HR.model.Proveryaemye</class>
-        <class>HR.model.FlexberryAdvLimit</class>
-        <class>HR.model.NewPlatformFlexberryFlexberryUserSetting</class>
-        <class>HR.model.NewPlatformFlexberryServicesLock</class>
-        <class>HR.model.IISCaseberryLoggingObjectsApplicationLog</class>
+        <class>hr.model.Otdely</class>
+        <class>hr.model.Sotrudniki</class>
+        <class>hr.model.Kontrol_TZ</class>
+        <class>hr.model.Ankety</class>
+        <class>hr.model.Fiz_lica</class>
+        <class>hr.model.Dolzhnosti</class>
+        <class>hr.model.Proveryaemye</class>
+        <class>hr.model.FlexberryAdvLimit</class>
+        <class>hr.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>hr.model.NewPlatformFlexberryServicesLock</class>
+        <class>hr.model.IISCaseberryLoggingObjectsApplicationLog</class>
 
     </persistence-unit>
 </persistence>

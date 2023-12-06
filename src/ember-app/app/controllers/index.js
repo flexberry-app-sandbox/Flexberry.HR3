@@ -19,40 +19,39 @@ export default Controller.extend({
           caption: i18n.t('forms.application.sitemap.h-r.caption'),
           title: i18n.t('forms.application.sitemap.h-r.title'),
           children: [{
-            link: 'i-i-s-h-r-отделы-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-отделы-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-отделы-l.title'),
-            icon: 'address card',
-            children: null
-          }, {
-            link: 'i-i-s-h-r-сотрудники-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-сотрудники-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-сотрудники-l.title'),
-            icon: 'tags',
-            children: null
-          }, {
-            link: 'i-i-s-h-r-контроль-т-з-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-контроль-т-з-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-контроль-т-з-l.title'),
-            icon: 'folder',
-            children: null
-          }, {
-            link: 'i-i-s-h-r-анкеты-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-анкеты-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-анкеты-l.title'),
-            icon: 'file',
-            children: null
-          }, {
-            link: 'i-i-s-h-r-физ-лица-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-физ-лица-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-физ-лица-l.title'),
+            link: 'i-i-s-hr-отделы-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-отделы-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-отделы-l.title'),
             icon: 'table',
             children: null
           }, {
-            link: 'i-i-s-h-r-должности-l',
-            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-должности-l.caption'),
-            title: i18n.t('forms.application.sitemap.h-r.i-i-s-h-r-должности-l.title'),
+            link: 'i-i-s-hr-сотрудники-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-сотрудники-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-сотрудники-l.title'),
+            icon: 'phone',
+            children: null
+          }, {
+            link: 'i-i-s-hr-контроль-т-з-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-контроль-т-з-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-контроль-т-з-l.title'),
+            children: null
+          }, {
+            link: 'i-i-s-hr-анкеты-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-анкеты-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-анкеты-l.title'),
             icon: 'file',
+            children: null
+          }, {
+            link: 'i-i-s-hr-физ-лица-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-физ-лица-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-физ-лица-l.title'),
+            icon: 'building',
+            children: null
+          }, {
+            link: 'i-i-s-hr-должности-l',
+            caption: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-должности-l.caption'),
+            title: i18n.t('forms.application.sitemap.h-r.i-i-s-hr-должности-l.title'),
+            icon: 'briefcase',
             children: null
           }]
         }

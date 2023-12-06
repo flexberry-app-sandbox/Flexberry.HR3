@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-hr-должности-e",
+  "editForm": "i-i-s-hr-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IIShrДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hr-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

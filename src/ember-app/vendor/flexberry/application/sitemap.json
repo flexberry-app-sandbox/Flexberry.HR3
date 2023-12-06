@@ -9,42 +9,42 @@
       "title": "HR",
       "children": [
         {
-          "link": "i-i-s-h-r-отделы-l",
+          "link": "i-i-s-hr-отделы-l",
           "menuName": null,
           "caption": "Отделы",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-h-r-сотрудники-l",
+          "link": "i-i-s-hr-сотрудники-l",
           "menuName": null,
           "caption": "Сотрудники",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-h-r-контроль-т-з-l",
+          "link": "i-i-s-hr-контроль-т-з-l",
           "menuName": null,
           "caption": "Контроль_ ТЗ",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-h-r-анкеты-l",
+          "link": "i-i-s-hr-анкеты-l",
           "menuName": null,
           "caption": "Анкеты",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-h-r-физ-лица-l",
+          "link": "i-i-s-hr-физ-лица-l",
           "menuName": null,
           "caption": "Физ_лица",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-h-r-должности-l",
+          "link": "i-i-s-hr-должности-l",
           "menuName": null,
           "caption": "Должности",
           "title": "",
