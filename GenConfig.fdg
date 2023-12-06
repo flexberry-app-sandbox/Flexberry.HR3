@@ -43,10 +43,10 @@
         "ConnectionString": null
       },
       "PostgreSql": {
-        "DiffSql": true,
-        "FullSql": true,
-        "Security": true,
-        "AdminUser": true,
+        "DiffSql": false,
+        "FullSql": false,
+        "Security": false,
+        "AdminUser": false,
         "ConnectionString": null
       },
       "ClickHouse": {
@@ -55,7 +55,7 @@
         "ConnectionString": null
       },
       "Oracle": {
-        "DiffSql": false,
+        "DiffSql": true,
         "FullSql": true,
         "ConnectionString": null
       },
